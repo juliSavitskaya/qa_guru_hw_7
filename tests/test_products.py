@@ -1,4 +1,3 @@
-
 class TestProducts:
     def test_product_check_quantity(self, product):
         """Тест на проверку количества товара в наличии"""
